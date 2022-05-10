@@ -4,7 +4,7 @@ Hello there 👋
   
 
 
-- 🔭 I'm currently studying for a Bachelor's degree in German University in Cairo, Faculty of Media Engineering and Technology, Department of Computer Science.
+- :books: I'm currently studying for a Bachelor's degree in German University in Cairo, Faculty of Media Engineering and Technology, Department of Computer Science.
 - 🌱 I’m currently learning JavaScript, Nodejs and PLpgSQL.
 - 📫 How to reach me: somayaelziady.14@gmail.com
 - 😄 Pronouns: she/her
