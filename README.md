@@ -8,14 +8,15 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/somaya-elziady-912b76231/" title="LinkedIn Profile"><img width="20"       src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> 
+    <a href="https://www.linkedin.com/in/somaya-elziady-912b76231/" title="LinkedIn Profile"><img width="20"                          src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> 
       LinkedIn</a></code>
   <!--
      <code>
     <a href="https://github.com/SomayaElZiady" title="Github Profile"><img width="22" src="images/github.svg"> Github</a></code>
+-->
     <code>
     <a href="mailto:somayaelziady.14@gmail.com" title="Gmail"><img width="22" src="images/Gmail.png"> Gmail</a></code>
--->
+
 </h5>
 <p align="center">
  :raising_hand: I'm Somaya ElZiady
